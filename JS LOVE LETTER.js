@@ -1,4 +1,4 @@
-//->Made it by 1vanbrav0
+
 //Variables
 let mobile_media_query = window.matchMedia("(max-width: 400px)");
 let tablet_media_query = window.matchMedia(
